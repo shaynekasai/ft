@@ -1,0 +1,22 @@
+.app {
+	text-align: center;
+	.entry {
+		margin-top: 50px;
+		width: 600px;
+		
+		#result {
+			display: none;
+		}
+	}
+
+	h1 {
+		font-family: 'Lora', serif;
+	}
+
+	form {
+		input.url {
+			width: 100%;
+		}
+
+	}
+}

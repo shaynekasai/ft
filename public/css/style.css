@@ -1,0 +1,11 @@
+.app {
+  text-align: center; }
+  .app .entry {
+    margin-top: 50px;
+    width: 600px; }
+    .app .entry #result {
+      display: none; }
+  .app h1 {
+    font-family: 'Lora', serif; }
+  .app form input.url {
+    width: 100%; }
